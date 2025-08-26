@@ -1,1 +1,2 @@
-# lab-conflictos"Esta l¡nea fue agregada en feature-b" 
+Esta lÃ­nea fue agregada en feature-a y feature-b
+
